@@ -7,7 +7,7 @@ new Morris.Area({
         { year: '2019', value: 15 },
         { year: '2020', value: 20 }
     ],
-    xkey: 'country',
+    xkey: 'year',
     ykeys: ['value'],
     labels: ['Years'],
     parseTime: false,
